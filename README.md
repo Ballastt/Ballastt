@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ballastt, which is my handle on Github. Usually they call me Birgit.
+- 👋 Hi, I’m @Ballast, which is my handle on Github. Usually they call me Birgit.
 - 👀 I’m interested in Web-Development, reading, sports, music, politics and lots more!
 - 🌱 I’m currently learning OOP for Javascript!
 - 💞️ I’m looking to collaborate on something I can handle ;-)
