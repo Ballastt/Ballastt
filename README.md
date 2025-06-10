@@ -1,18 +1,43 @@
-- 👋 Hi, I’m @Ballast, which is my handle on Github. Usually they call me Birgit.
-- 👀 I’m interested in Web-Development, reading, sports, music, politics and lots more!
-- 🌱 I’m currently learning OOP for Javascript!
-- 💞️ I’m looking to collaborate on something I can handle ;-)
-- 📫 How to reach me: borgotttttttt@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I started programming only 2 years ago, meanwhile I am already 43 but sometimes you gotta take a leap.
+# 👋 Hi there!
 
-- I code with Javascript **![image](https://github.com/user-attachments/assets/e79237b3-2c54-4e9c-8278-71060df95793)
-**, HTML 5 ![image](https://github.com/user-attachments/assets/a3ed8205-0b8d-44aa-af49-623dc52cb8fa)
-, CSS 3 ![image](https://github.com/user-attachments/assets/6e63797d-a2e1-4a42-9f67-52cea001ede5)
-and will soon learn about Angular ![image](https://github.com/user-attachments/assets/ef2fd564-7a56-447b-ad26-5e275ab22fd1)
-. 
+I'm currently pursuing a Front-End Development course, where I've built a strong foundation in **HTML**, **CSS**, and **JavaScript**. My recent focus has been on **Object-Oriented Programming** in JavaScript, and I'm excited to be diving into **Angular** next! 🌟
 
-<!---
-Ballastt/Ballastt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I also have some experience with **React** and **Swift**, though I’m looking forward to refreshing and expanding my knowledge in those areas.
+
+---
+
+## 🌈 My Color Palette
+I love using **pink** and **green** in my projects—they bring energy and freshness to my designs!
+
+---
+
+## 🚀 Featured Projects
+
+- **Join Repository**  
+  My take on collaborative task management with a clean, modern interface.
+
+- **El-Pollo-Loco**  
+  A fun project inspired by classic platformers, showcasing my skills in game logic and animation.
+
+---
+
+## 💻 My Tech Stack
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40" alt="Swift"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+</p>
+
+---
+
+_Eager to learn, create, and grow!_
+
+<!--
+No social links yet, but stay tuned for more updates and projects!
+-->
