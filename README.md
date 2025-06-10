@@ -6,7 +6,8 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I started programming only 2 years ago, meanwhile I am already 43 but sometimes you gotta take a leap.
 
-- I code with Javascript, HTML 5, CSS 3 and will soon learn about Angular. 
+- I code with Javascript, HTML 5, CSS 3 and will soon learn about Angular. ![image](https://github.com/user-attachments/assets/8a990cce-216b-48c0-8027-8c602e403757)
+
 <!---
 Ballastt/Ballastt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
